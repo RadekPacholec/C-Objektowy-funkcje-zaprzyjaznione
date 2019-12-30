@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1577728791 source:e:\it\c++\objektowe\funkcje_zaprzyjaznione\funkcje_zaprzyjaznione\main.cpp
+	<iostream>
+	"przyjaciel.h"
+
+1577728791 e:\it\c++\objektowe\funkcje_zaprzyjaznione\funkcje_zaprzyjaznione\przyjaciel.h
+	<iostream>
+
+1577735077 source:e:\it\c++\objektowe\funkcje_zaprzyjaznione\funkcje_zaprzyjaznione\przyjaciel.cpp
+	<iostream>
+	"przyjaciel.h"
+
